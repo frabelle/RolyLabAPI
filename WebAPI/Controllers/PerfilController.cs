@@ -24,7 +24,7 @@ namespace WebAPI.Controllers
             return await Mediator.Send(new ConsultaPerfilId.PerfilUnico { Id = id });
         }
 
-        [HttpPost]
+        [HttpPost("Crear")]
         public async Task<ActionResult<Unit>> Crear(NuevoPerfil.EjecutaPerfil data)
         {
             return await Mediator.Send(data);

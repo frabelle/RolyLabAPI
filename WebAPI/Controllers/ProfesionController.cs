@@ -24,7 +24,7 @@ namespace WebAPI.Controllers
             return await Mediator.Send(new ConsultaProfesion.ProfesionUnica { Id = id });
         }
 
-        [HttpPost]
+        [HttpPost("Crear")]
         public async Task<ActionResult<Unit>> Crear(NuevaProfesion.Ejecuta data)
         {
             return await Mediator.Send(data);

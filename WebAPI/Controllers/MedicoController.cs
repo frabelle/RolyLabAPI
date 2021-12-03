@@ -25,7 +25,7 @@ namespace WebAPI.Controllers
             return await Mediator.Send(new ConsultaMedicoId.Unico { Id = id });
         }
 
-        [HttpPost]
+        [HttpPost("Crear")]
         public async Task<ActionResult<Unit>> Crear(NuevoMedico.EjecutaMedico data)
         {
             return await Mediator.Send(data);
