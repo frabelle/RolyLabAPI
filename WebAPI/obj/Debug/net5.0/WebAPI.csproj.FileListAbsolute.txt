@@ -139,3 +139,7 @@ C:\Users\luisf\VS-Workspace\netLis\WebAPI\obj\Debug\net5.0\WebAPI.dll
 C:\Users\luisf\VS-Workspace\netLis\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
 C:\Users\luisf\VS-Workspace\netLis\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\luisf\VS-Workspace\netLis\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\luisf\VS-Workspace\netLis\WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\luisf\VS-Workspace\netLis\WebAPI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\luisf\VS-Workspace\netLis\WebAPI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\luisf\VS-Workspace\netLis\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
