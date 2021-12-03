@@ -22,3 +22,15 @@ C:\Users\luisf\VS-Workspace\netLis\Seguridad\obj\Debug\net5.0\Seguridad.csproj.C
 C:\Users\luisf\VS-Workspace\netLis\Seguridad\obj\Debug\net5.0\Seguridad.dll
 C:\Users\luisf\VS-Workspace\netLis\Seguridad\obj\Debug\net5.0\ref\Seguridad.dll
 C:\Users\luisf\VS-Workspace\netLis\Seguridad\obj\Debug\net5.0\Seguridad.pdb
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\bin\Debug\net5.0\Seguridad.deps.json
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\bin\Debug\net5.0\Seguridad.dll
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\bin\Debug\net5.0\ref\Seguridad.dll
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\bin\Debug\net5.0\Seguridad.pdb
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\obj\Debug\net5.0\Seguridad.csprojAssemblyReference.cache
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\obj\Debug\net5.0\Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\obj\Debug\net5.0\Seguridad.AssemblyInfoInputs.cache
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\obj\Debug\net5.0\Seguridad.AssemblyInfo.cs
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\obj\Debug\net5.0\Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\obj\Debug\net5.0\Seguridad.dll
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\obj\Debug\net5.0\ref\Seguridad.dll
+C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Seguridad\obj\Debug\net5.0\Seguridad.pdb
