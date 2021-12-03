@@ -201,7 +201,7 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Abstractions.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/5.0.12": {
+      "Microsoft.EntityFrameworkCore.Analyzers/6.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -1961,17 +1961,17 @@
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/5.0.12": {
-      "sha512": "MTxvfKtEeQN5E5fBJO/jNfBdcKqw///Pro4uI2o0q8ukMaLsff4TgC8cfPBtzkz6wh55z0b4kldUv2r34Ix3sg==",
+    "Microsoft.EntityFrameworkCore.Analyzers/6.0.0": {
+      "sha512": "BqWBL05PUDKwPwLeQCJdc2R4cIUycXV9UmuSjYfux2fcgyet8I2eYnOWlA7NgsDwRVcxW26vxvNQ0wuc8UAcLA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.analyzers/5.0.12",
+      "path": "microsoft.entityframeworkcore.analyzers/6.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.analyzers.5.0.12.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
@@ -6011,23 +6011,29 @@
       "Dominio >= 1.0.0",
       "FluentValidation.AspNetCore >= 10.3.5",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0",
+      "Microsoft.EntityFrameworkCore.Analyzers >= 6.0.0",
       "Persistencia >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alienware 15 R3\\.nuget\\packages\\": {}
+    "C:\\Users\\luisf\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj",
-      "packagesPath": "C:\\Users\\Alienware 15 R3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Aplicacion\\obj\\",
+      "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Alienware 15 R3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6041,11 +6047,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Dominio\\Dominio.csproj"
+            "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj"
+            "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -6067,6 +6073,10 @@
           "MediatR.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[9.0.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.Analyzers": {
+            "target": "Package",
+            "version": "[6.0.0, )"
           }
         },
         "imports": [
@@ -6080,14 +6090,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

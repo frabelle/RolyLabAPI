@@ -49,10 +49,10 @@ namespace Aplicacion.Medicos
                 RuleFor(x => x.Apellidos).NotEmpty();
                 RuleFor(x => x.IdtblCatSucursales).NotEmpty();
                 RuleFor(x => x.FechaCreacion).NotEmpty();
-                //RuleFor(x => x.IdMedicoNac).NotEmpty();
-                //RuleFor(x => x.IdMedicoRes).NotEmpty();
-                //RuleFor(x => x.IdPaisNac).NotEmpty();
-                //RuleFor(x => x.IdPaisRes).NotEmpty();
+                RuleFor(x => x.IdDepartamentoNac).NotEmpty();
+                RuleFor(x => x.IdDepartamentoRes).NotEmpty();
+                RuleFor(x => x.IdPaisNac).NotEmpty();
+                RuleFor(x => x.IdPaisRes).NotEmpty();
                 RuleFor(x => x.IdIdentificacion).NotEmpty();
                 RuleFor(x => x.IdEstadoCivil).NotEmpty();
                 RuleFor(x => x.IdSexo).NotEmpty();
@@ -88,6 +88,10 @@ namespace Aplicacion.Medicos
                     IdIdentificacion = request.IdIdentificacion,
                     IdEstadoCivil = request.IdEstadoCivil,
                     IdSexo = request.IdSexo,
+                    IdPaisNac = request.IdPaisNac,
+                    IdDepartamentoNac = request.IdDepartamentoNac,
+                    IdPaisRes = request.IdPaisRes,
+                    IdDepartamentoRes = request.IdDepartamentoRes,
                     NumIdentificacion = request.NumIdentificacion,
                     CodMinsa = request.CodMinsa,
                     FechaNac = request.FechaNac,

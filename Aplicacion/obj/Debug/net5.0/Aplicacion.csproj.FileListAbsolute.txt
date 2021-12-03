@@ -49,3 +49,20 @@ C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Apl
 C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
 C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
 C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\bin\Debug\net5.0\Dominio.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete

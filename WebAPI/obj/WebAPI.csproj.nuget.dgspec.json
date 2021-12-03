@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj": {
+    "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\Alienware 15 R3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Aplicacion\\obj\\",
+        "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alienware 15 R3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Dominio\\Dominio.csproj"
+              "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -54,6 +58,10 @@
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -67,28 +75,29 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\Alienware 15 R3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alienware 15 R3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,21 +171,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Alienware 15 R3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alienware 15 R3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -190,8 +203,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Dominio\\Dominio.csproj"
+              "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -250,21 +263,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Seguridad\\Seguridad.csproj": {
+    "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Seguridad\\Seguridad.csproj",
+        "projectUniqueName": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Seguridad\\Seguridad.csproj",
         "projectName": "Seguridad",
-        "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Seguridad\\Seguridad.csproj",
-        "packagesPath": "C:\\Users\\Alienware 15 R3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Seguridad\\obj\\",
+        "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Seguridad\\Seguridad.csproj",
+        "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alienware 15 R3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -304,21 +321,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Alienware 15 R3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alienware 15 R3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -332,11 +353,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj"
+              "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Aplicacion\\Aplicacion.csproj"
               },
-              "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Seguridad\\Seguridad.csproj": {
-                "projectPath": "C:\\Users\\Alienware 15 R3\\VS_workspace\\RolyLabAPI\\Seguridad\\Seguridad.csproj"
+              "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Seguridad\\Seguridad.csproj": {
+                "projectPath": "C:\\Users\\luisf\\VS-Workspace\\RolyLabAPI\\Seguridad\\Seguridad.csproj"
               }
             }
           }
@@ -380,7 +401,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

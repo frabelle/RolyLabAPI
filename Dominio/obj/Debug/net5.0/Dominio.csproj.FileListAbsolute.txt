@@ -43,3 +43,18 @@ C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Domini
 C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Dominio.pdb
 C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Dominio.genruntimeconfig.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\bin\Debug\net5.0\Dominio.runtimeconfig.json
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\bin\Debug\net5.0\Dominio.runtimeconfig.dev.json
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Dominio\obj\Debug\net5.0\Dominio.genruntimeconfig.cache

@@ -52,3 +52,21 @@ C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\P
 C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
 C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.pdb
 C:\Users\Alienware 15 R3\VS_workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\bin\Debug\net5.0\Dominio.dll
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\bin\Debug\net5.0\Dominio.pdb
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\luisf\VS-Workspace\RolyLabAPI\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
